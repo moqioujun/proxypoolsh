@@ -1,54 +1,33 @@
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://hello.stgod.com/clash/proxies
+    url: https://subcon.dlj.tf/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Faiboboxx%2Fv2rayfree%2Fmain%2Fv2
+    
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://subcon.dlj.tf/sub?target=clash&url=http%3A%2F%2Fv2ray.banyunxiaoxi.ml%2F
 
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://hm2019721.ml/clash/proxies
+    url: https://raw.githubusercontent.com/chfchf0306/clash/main/clash
 
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://jiedian.faka77.tk/clash/proxies
+    url: https://subcon.dlj.tf/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fchfchf0306%2Fjeidian4.18%2Fmain%2F4.18
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://subcon.dlj.tf/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fcodingbox%2FFree-Node-Merge%2Fmain%2Fnode.txt
 
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://proxies.bihai.cf/clash/proxies
+    url: https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/Eternity.yml
 
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://proxy.yugogo.xyz/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://proxypool.fly.dev/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://proxypool-guest997.herokuapp.com/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://ss.dswang.ga:8443/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://sspool.herokuapp.com/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://sspool.nl/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://etproxypool.ga/clash/proxies
+    url:https://subcon.dlj.tf/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Ffreefq%2Ffree%2Fmaster%2Fv2

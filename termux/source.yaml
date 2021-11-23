@@ -1,36 +1,6 @@
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://233660.xyz/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://emby.luoml.eu.org/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://etproxypool.cf/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://fq.lonxin.net/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://free.kingfu.cf/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://free886.herokuapp.com/clash/proxies
-
-# clash格式订阅链接
-- type: clash
-  options:
     url: https://hello.stgod.com/clash/proxies
 
 # clash格式订阅链接
